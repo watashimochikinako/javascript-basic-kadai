@@ -5,5 +5,8 @@ aaa
 - aaa
 
 
-Uploading 画面収録 2023-09-18 20.36.36.mov…
+
+
+
+https://github.com/watashimochikinako/javascript-basic-kadai/assets/136787373/9a40e7db-d7b1-4232-99aa-0f25e33e4da3
 
